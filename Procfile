@@ -1,1 +1,1 @@
-worker: python bot_TraMe.py
+worker: python3 bot_TraMe.py
